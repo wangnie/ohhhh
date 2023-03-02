@@ -9,6 +9,8 @@ package com.task;
 
 public class TestGit {
 
+    String de = "111";
+
     public static void main(String[] args) {
         System.out.println("dev");
     }
